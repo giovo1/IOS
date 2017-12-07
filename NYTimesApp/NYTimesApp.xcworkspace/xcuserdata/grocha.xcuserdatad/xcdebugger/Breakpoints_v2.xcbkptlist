@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYTimesApp/NewsTableViewController.swift"
+            timestampString = "534217562.779321"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "NewsTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYTimesApp.NewsTableViewController.searchText.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UISearchBar&gt;"
+                  moduleName = "NYTimesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/grocha/Desktop/grocha/NYTimesApp/NYTimesApp/NewsTableViewController.swift"
+                  timestampString = "533316371.280144"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYTimesApp.NewsTableViewController.searchText.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UISearchBar&gt;"
+                  moduleName = "NYTimesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/grocha/Desktop/grocha/NYTimesApp/NYTimesApp/NewsTableViewController.swift"
+                  timestampString = "533316371.290429"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYTimesApp.NewsTableViewController.init(style: __C.UITableViewStyle) -&gt; NYTimesApp.NewsTableViewController"
+                  moduleName = "NYTimesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/grocha/Desktop/grocha/NYTimesApp/NYTimesApp/NewsTableViewController.swift"
+                  timestampString = "533316371.305349"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "338">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYTimesApp.NewsTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; NYTimesApp.NewsTableViewController"
+                  moduleName = "NYTimesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/grocha/Desktop/grocha/NYTimesApp/NYTimesApp/NewsTableViewController.swift"
+                  timestampString = "533316371.321101"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYTimesApp.NewsTableViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;NYTimesApp.NewsTableViewController&gt;"
+                  moduleName = "NYTimesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/grocha/Desktop/grocha/NYTimesApp/NYTimesApp/NewsTableViewController.swift"
+                  timestampString = "533316371.336425"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "326">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
